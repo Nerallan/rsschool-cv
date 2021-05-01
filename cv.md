@@ -67,6 +67,14 @@ and I was engaged in research work on cryptography and computer networks. I work
 - JIRA, GitLab, Confluence
 - MVP/MVVM/MVI/TEA(The Elm Architecture) LiveData и wrappers around that
 
+#### English
+
+- Started learning English from the 1st grade at school
+- From the 5th grade I was in the advanced English group at school
+- During my study at university (bachelor’s degree) I had a 2-year English course
+- While studying a particular technology, I often watch technical conferences in English. 
+- Now I can easily read any documentation, watch videos and briefly talk in English with somebody. But without any practice at my current job my English level: B1 (Intermediate)
+
 
 [linkedin profile]: https://www.linkedin.com/in/maksim-budzko-3443001ba
 [github profile]: https://github.com/Nerallan 
