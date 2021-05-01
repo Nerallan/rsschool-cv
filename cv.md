@@ -2,7 +2,7 @@
 
 I'm android Developer with 3+ years of strong experience in Mobile Development, Core Java & Kotlin areas with willingness to learn new technologies and and a passion to create quality business products.
 
-#### Contact info
+### Contact info
 __Phone__: +375 (33) 62-00-664 
 
 __E-mail__: budkomaximidu@gmail.com
@@ -11,7 +11,7 @@ __LinkedIn__: [maksim-budzko][linkedin profile]
 
 __GitHub__: [@Nerallan] [github profile]
 
-#### Education
+### Education
 
 __University__: Yanka Kupala State University of Grodno
 
@@ -23,7 +23,7 @@ __Education form__: Full-time
 
 __Degree__: bachelor
 
-#### Summary
+### Summary
 
 I became interested in programming from the first year of study at the university. 
 In my second year at the university, I took a course in developing _web applications 
@@ -34,12 +34,12 @@ After that i got a _job at SENLA Group in the Android development department_.
 I also participated in the _International hackathon - NASA Space Apps Challenge and a competition for Vizor Games_, 
 and I was engaged in research work on cryptography and computer networks. I worked __3 years as android developer__ and during this time managed to work on several interesting and important projects, in large teams with a total of 50+ android developers. In 2020 I successfully completed the Android Academy Minsk course and now I interested in multiplatform technologies such as KMP and Flutter. In the near future I want to try myself in ios development. 
 
-#### Examples of Projects
+### Examples of Projects
 
 - [``Kotlin DSL expperience``][dsl_template] 
 - [``Circle Detektor Custom View``][custom_view] 
 
-#### Skills
+### Skills
 
 - Hands-on experience in OS: Linux, MacOS, Windows (CLI), SQL (Oracle Database), 
 - Strong knowledge of Jira, Git, Docker
@@ -60,7 +60,7 @@ and I was engaged in research work on cryptography and computer networks. I work
 - GoF Design Patterns, OOP, KISS, DRY, SOLID principles, Clean Architecture, G.R.A.S.P
 - Currently interested in multiplatform frameworks, such as KMP, Flutter
 
-#### Technology stack 
+### Technology stack 
 
 - Kotlin, Java, Groovy;
 - AndroidX, Android Architecture Components (Work Manager, ViewBinding, Constraint/MotionLayout, Room);
@@ -74,7 +74,7 @@ and I was engaged in research work on cryptography and computer networks. I work
 - JIRA, GitLab, Confluence
 - MVP/MVVM/MVI/TEA(The Elm Architecture) LiveData и wrappers around that
 
-#### English
+### English
 
 - Started learning English from the 1st grade at school
 - From the 5th grade I was in the advanced English group at school
