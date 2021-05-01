@@ -75,6 +75,15 @@ and I was engaged in research work on cryptography and computer networks. I work
 - While studying a particular technology, I often watch technical conferences in English. 
 - Now I can easily read any documentation, watch videos and briefly talk in English with somebody. But without any practice at my current job my English level: B1 (Intermediate)
 
+### Personal qualities
+
+- analytical mindset, the ability to find non-trivial solutions;
+- skills for in-depth study of technical documentation, analysis and problem solving;
+- neat, organized, a tendency to perfectionism;
+- good interpersonal and collaboration skills, clearly expressing my thoughts;
+- restrained, stress and depression are not affected.
+- ability to successfully manage time, balancing multiple tasks with varying levels of priority and urgency.
+
 
 [linkedin profile]: https://www.linkedin.com/in/maksim-budzko-3443001ba
 [github profile]: https://github.com/Nerallan 
