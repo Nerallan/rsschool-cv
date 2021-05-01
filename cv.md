@@ -3,18 +3,18 @@
 I'm android Developer with 3+ years of strong experience in Mobile Development, Core Java & Kotlin areas with willingness to learn new technologies and and a passion to create quality business products.
 
 > #### Contact info
-> __Phone__: +375 (33) 62-00-664 
+__Phone__: +375 (33) 62-00-664 
 __E-mail__: budkomaximidu@gmail.com
 __LinkedIn__: [maksim-budzko][linkedin profile]
 __GitHub__: [@Nerallan] [github profile]
 
 #### Education
 
-> __University__: Yanka Kupala State University of Grodno
-> __Faculty__: Faculty of Computer-Aided Design
-> __Department__: Computer security
-> __Education form__: Full-time
-> __Degree__: bachelor
+__University__: Yanka Kupala State University of Grodno
+__Faculty__: Faculty of Computer-Aided Design
+__Department__: Computer security
+__Education form__: Full-time
+__Degree__: bachelor
 
 #### Summary
 
