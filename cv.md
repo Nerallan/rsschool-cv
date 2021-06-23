@@ -15,7 +15,7 @@ __GitHub__: [@Nerallan] [github profile]
 
 __University__: Yanka Kupala State University of Grodno
 
-__Faculty__: Faculty of Computer-Aided Design
+__Faculty__: Faculty of Mathematics and Informatics 
 
 __Department__: Computer security
 
