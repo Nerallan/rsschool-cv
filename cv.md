@@ -90,6 +90,34 @@ and I was engaged in research work on cryptography and computer networks. I work
 - restrained, stress and depression are not affected.
 - ability to successfully manage time, balancing multiple tasks with varying levels of priority and urgency.
 
+### Past projects experience
+
+| Name, Time Period      | FitnessImpulse: 06.2019-08.2019 |
+| ----------- | ----------- |
+| Description      | This application allows you to track your jogging time and distance and see your route on google map. All training information is stored in a local database, and when the Internet is turned on, it is synchronized with a remote server. For convenience, you can set a reminder that will remind you of a scheduled training session.       |
+| Team   | 1 Dev        |
+| Job Position   | Junior Software Engineer        |
+| Project roles   | Developer        |
+| Tasks  | Application architecture, development, code review, bug fixing        |
+| Technologies  | Android, Java, OkHTTP, BoltsFramework        |
+
+| Name, Time Period      | PizzaTruck: 10.2019-01.2020 |
+| ----------- | ----------- |
+| Description      | The application allows you to view a list of currently available pizzas and detailed information about each of them. It caches important data and in the absence of the Internet shows data from database. This application allows you to see your current location and the location of the pizzeria on the google map.       |
+| Team   | Android Dev, QA, IOS Dev         |
+| Job Position   | Junior Software Engineer        |
+| Project roles   | Developer        |
+| Tasks  | Application architecture, development, code review, bug fixing        |
+| Technologies  | Android, Kotlin, RxJava2, LiveData, ViewModel Retrofit2, MVP, MVVM, Glide, Custom view        |
+
+| Name, Time Period      | WePay: 01.2020-02.2020 |
+| ----------- | ----------- |
+| Description      | This financial application is aimed at the Middle East market. The main functionality was working with bank cards.        |
+| Team   | 1 Dev        |
+| Job Position   | Junior Software Engineer        |
+| Project roles   | Developer        |
+| Tasks  | code review, bug fixing, supporting        |
+| Technologies  | Android, Kotlin, RxJava2, Retrofit2, MVI, Glide, Custom view        |
 
 [linkedin profile]: https://www.linkedin.com/in/maksim-budzko-3443001ba
 [github profile]: https://github.com/Nerallan 
